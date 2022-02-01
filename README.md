@@ -10,3 +10,6 @@ https://dydx.community/dashboard
 
 official github  
 https://github.com/dydxprotocol/dydx-v3-python
+
+# How does it work?
+run docker-compose
