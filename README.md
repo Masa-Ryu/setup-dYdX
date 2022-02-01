@@ -18,4 +18,5 @@ https://github.com/dydxprotocol/dydx-v3-python
 4. Run setup-dydx.py
 5. Now you can start dYdX!
 
-* COUNTRY const. is here -> https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+* ETHEREUM SECRET: If you use Metamask, see -> https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key
+* COUNTRY: check -> https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
