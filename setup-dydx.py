@@ -34,3 +34,4 @@ onboarding_information = client.onboarding.create_user(
         )
 
 print(onboarding_information)
+print('Plese save these information')
