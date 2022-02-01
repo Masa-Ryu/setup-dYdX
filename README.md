@@ -1,5 +1,6 @@
-# dYdX-wrapper
+# Setup dYdX
 For crypto currency trader.
+You can easy to start algorithm trading on dYdX!
 
 API Document, see below  
 https://docs.dydx.exchange/?python
