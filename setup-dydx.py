@@ -9,9 +9,10 @@ COUNTRY = ''  # your country
 AffiliateLink = ''  # if you have
 
 WEB_PROVIDER_URL = 'http://localhost:8545'
+
 client = Client(
-        network_id=NETWORK_ID_ROPSTEN,
-        host=API_HOST_ROPSTEN,
+        network_id=NETWORK_ID_MAINNET,
+        host=API_HOST_MAINNET,
         web3=Web3(Web3.HTTPProvider(WEB_PROVIDER_URL)),
         default_ethereum_address=ETHEREUM_ADDRESS,
         eth_private_key=ETHEREUM_SECRET
